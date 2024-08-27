@@ -1,0 +1,20 @@
+/* código omitido */
+
+body {
+    background-color: #1b5020;
+    color: rgb(224, 91, 113);
+    font-family: "Bai Jamjuree", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+button {
+    background-color: #bcd899;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+}
+.passo.ativo {
+    display:block;
+}
